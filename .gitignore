@@ -1,0 +1,5 @@
+build/
+dist/
+get_gcp_secret.egg-info/
+
+*.sh

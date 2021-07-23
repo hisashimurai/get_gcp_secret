@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="get_gcp_secret",
-    version="0.0.4",
+    version="0.0.5",
     author="Hisashi Murai",
     author_email="xyksp956@yahoo.co.jp",
-    description="Get value from google Cloud Secret Manager.",
+    description="Get value from Google Cloud Secret Manager.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/hisashimurai/get_gcp_secret",

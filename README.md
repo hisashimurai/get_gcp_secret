@@ -1,5 +1,5 @@
 # get_gcp_secret
-Get value from google Cloud Secret Manager.
+Get value from Google Cloud Secret Manager.
 
 
 ## Installation;
@@ -8,7 +8,7 @@ pip install get_gcp_secret google-cloud-secret-manager
 pip install get_metadata  # optional
 ~~~
 
-## OR Write `get_gcp_secret` on requirements.txt
+## OR Write `get_gcp_secret` in requirements.txt.
 
 ~~~
 # requirements.txt sample
@@ -18,7 +18,7 @@ get_metadata  # optional
 ~~~
 
 
-## How to use
+## How to use.
 ~~~python
 import get_gcp_secret
 
